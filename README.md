@@ -1,4 +1,3 @@
-# DA5401-assignment-5
 # DA5401 Assignment 5 — Manifold Visualization and Data Veracity
 
 > **Note:** Apologies for the slight delay in submission. The extended runtime required additional validation to ensure interpretable results.
